@@ -1,4 +1,4 @@
-"1st run breakhis.py to store the path of all images"
+"1st run breakhiscsv.py to store the path of all images"
 
 "2nd run split_train_test_csv.py to create the split CSVs"
 
